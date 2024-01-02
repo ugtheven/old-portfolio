@@ -1,5 +1,5 @@
 # My old portfolio using Angular
-To find my internship, I created this portfolio. My first web project outside of school was this one.
+Month ago, to find my first internship, I created this portfolio. My first web project outside of school was this one.
 This is my resume as a single-page application inspired by the Visual Studio Code's interface.
 
 ![Capture d’écran 2023-08-03 à 22 49 57](https://github.com/utheveny/old-portfolio/assets/137451965/557f633e-3afc-4621-880b-e58d64a767e4)
